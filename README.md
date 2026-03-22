@@ -86,6 +86,6 @@ If you found this project useful, please consider supporting it:
 - 🧠 **Contribute** improvements via Pull Requests.
 
 <p align="center">
-  Developed with ❤️ by <strong><a href="https://facebook.com/md.nirob.hassan.12327">NIROB</a></strong><br>
+  Developed by❤️<strong><a href="https://facebook.com/md.nirob.hassan.12327">NIROB</a></strong><br>
   🚀 <em>Build smart. Download smarter.</em>
 </p>
