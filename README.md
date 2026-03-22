@@ -39,18 +39,53 @@ Make sure you have Python 3 and FFmpeg installed on your system.
    ```bash
    python downloader.py
    ```
-🚀 How to Use
-Start the Script: Type python downloader.py and hit Enter.
-Paste Link: Right-click or long-press to paste your target video or playlist URL.
-Choose Your Option:
-1 : Best video quality (No Subtitles)
-2 : Best video quality + Bangla Subtitles (Auto-Embed)
-3 : Manually select resolution (e.g., 720p, 1080p)
-4 : Download as MP3 Audio
-5 : Download an entire Playlist
-Download: Watch the animated progress bar do its magic!
+## 🚀 How to Use
 
-📂 Download Location
-Platform	Save Path
-📱 Termux (Android)	Internal Storage > Downloads > UltimateDownloader
-💻 PC (Windows/Linux)	Downloads > UltimateDownloader
+1. **Start the Script:** Type `python downloader.py` and press **Enter**.
+2. **Paste Link:** Right-click or long-press to paste your target video or playlist URL.
+3. **Choose Your Option:**
+   - `1` : Best Video Quality *(No Subtitles)*
+   - `2` : Best Video Quality + **Bangla Subtitles** *(Auto-Embed)*
+   - `3` : Manually Select Resolution *(e.g., 720p, 1080p)*
+   - `4` : Download as **MP3 Audio**
+   - `5` : Download an **Entire Playlist**
+4. **Download:** Relax and watch the animated progress bar do its magic!
+
+---
+
+## 📂 Download Location
+
+| Platform | Save Path |
+| :--- | :--- |
+| 📱 **Termux (Android)** | `Internal Storage > Downloads > UltimateDownloader` |
+| 💻 **PC (Windows/Linux)** | `Downloads > UltimateDownloader` |
+
+---
+
+## 📦 Requirements
+
+This tool is powered by the following core libraries:
+- **`yt-dlp`** : The core downloading engine.
+- **`FFmpeg`** : For merging high-quality video and audio seamlessly.
+- **`mutagen`** : For handling audio metadata and embedding thumbnails.
+- **`curl_cffi`** : To bypass platform security blocks and restrictions.
+
+---
+
+## 📜 Disclaimer
+
+> **Note:** This tool is developed for educational and personal use only. The developer is not responsible for any misuse. Please respect the copyright terms of the respective content owners.
+
+---
+
+## ⭐ Support
+
+If you found this project useful, please consider supporting it:
+- ⭐ **Star** the repository to show your appreciation.
+- 🍴 **Fork** it and add your own creative features.
+- 🧠 **Contribute** improvements via Pull Requests.
+
+<p align="center">
+  Developed with ❤️ by <strong><a href="https://facebook.com/md.nirob.hassan.12327">NIROB</a></strong><br>
+  🚀 <em>Build smart. Download smarter.</em>
+</p>
