@@ -22,7 +22,9 @@ A professional, high-speed, and CLI-based video/audio downloader designed for **
 
 Open Termux and run the following commands one by one:
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Nirobs-Projects/Vedio-Downloader.git
-   cd Vedio-Downloader
+```bash
+git clone https://github.com/Nirobs-Projects/Vedio-Downloader.git
+cd Vedio-Downloader
+chmod +x setup.sh
+./setup.sh
+python downloader.py
