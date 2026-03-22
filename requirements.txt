@@ -1,0 +1,4 @@
+yt-dlp
+mutagen
+curl_cffi
+certifi
